@@ -18,4 +18,4 @@
 
 [twitter]:
 [instagram]: 
-[linkedin]: https://www.linkedin.com/in/ted-williams-a428b0358/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFkfINIB-ycSnssEeRKC8__AOMz2pxtJoXo
+[linkedin]:https://www.linkedin.com/in/ted-williams-a428b0358/?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAAFkfINIB-ycSnssEeRKC8__AOMz2pxtJoXo
